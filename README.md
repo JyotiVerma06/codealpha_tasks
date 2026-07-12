@@ -1,18 +1,16 @@
-# codealpha_tasks
-This repository contains all the tasks and projects completed during my CodeAlpha Internship, including C Programming, Python, and Power BI projects.
 # 🚀 CodeAlpha Internship Tasks
 
 Welcome to my **CodeAlpha Internship** repository!
 
-This repository contains the tasks and mini-projects I completed during my internship in **C Programming** and **Python**. These projects helped me strengthen my programming fundamentals, problem-solving skills, and practical software development experience.
+This repository contains the tasks and projects I completed during my internship in **C Programming**, **Python**, and **Power BI**. These projects helped me strengthen my programming fundamentals, problem-solving abilities, data analysis skills, and practical software development experience.
 
 ---
 
-📂 Repository Structure
+## 📂 Repository Structure
 
-💻 C Programming Tasks
+### 💻 C Programming Tasks
 
-✅ Task 1: Calculator Program
+#### ✅ Task 1: Calculator Program
 A menu-driven calculator that performs:
 - Addition
 - Subtraction
@@ -26,7 +24,7 @@ A menu-driven calculator that performs:
 
 ---
 
-✅ Task 2: Matrix Operations
+#### ✅ Task 2: Matrix Operations
 Implemented:
 - Matrix Addition
 - Matrix Multiplication
@@ -39,7 +37,7 @@ Implemented:
 
 ---
 
-✅ Task 3: Student Management System
+#### ✅ Task 3: Student Management System
 A menu-driven application to manage student records.
 
 **Features:**
@@ -56,8 +54,7 @@ A menu-driven application to manage student records.
 
 ---
 
-✅ Task 4: Banking System (Mini Project)
-A console-based banking application.
+#### ✅ Task 4: Banking System (Mini Project)
 
 **Features:**
 - Deposit Money
@@ -72,10 +69,9 @@ A console-based banking application.
 
 ---
 
-🐍 Python Tasks
+## 🐍 Python Tasks
 
-✅ Task 1: Hangman Game
-A text-based word guessing game.
+#### ✅ Task 1: Hangman Game
 
 **Concepts Used:**
 - Random Module
@@ -86,8 +82,7 @@ A text-based word guessing game.
 
 ---
 
-✅ Task 2: Stock Portfolio Tracker
-Calculates the total investment value based on user input.
+#### ✅ Task 2: Stock Portfolio Tracker
 
 **Features:**
 - Stock Price Dictionary
@@ -102,8 +97,7 @@ Calculates the total investment value based on user input.
 
 ---
 
-✅ Task 3: Task Automation Script
-Automates repetitive tasks.
+#### ✅ Task 3: Task Automation Script
 
 Examples:
 - Move JPG files
@@ -119,8 +113,7 @@ Examples:
 
 ---
 
-✅ Task 4: Basic Chatbot
-A simple rule-based chatbot.
+#### ✅ Task 4: Basic Chatbot
 
 **Features:**
 - Greeting Responses
@@ -134,29 +127,83 @@ A simple rule-based chatbot.
 
 ---
 
- 🛠️ Technologies Used
+## 📊 Power BI Tasks
+
+#### ✅ Task 1: Financial Health Dashboard
+
+An interactive dashboard for analyzing financial performance.
+
+**Dashboard Highlights:**
+- Revenue Analysis
+- Profit & Loss Overview
+- Expense Breakdown
+- Financial KPIs
+- Interactive Filters & Slicers
+
+**Skills Used:**
+- Power Query
+- Data Modeling
+- DAX
+- Interactive Visualizations
+- KPI Cards
+
+---
+
+#### ✅ Task 2: Real Estate Market Trends Dashboard
+
+An interactive dashboard for analyzing real estate market dynamics.
+
+**Dashboard Highlights:**
+- Property Price Analysis
+- Rental Yield Analysis
+- Market Demand & Supply Analysis
+- Geographical Market Insights
+- Interactive Slicers
+- KPI Cards
+- Multi-page Dashboard
+
+**Skills Used:**
+- Power BI
+- DAX Measures
+- Power Query
+- Data Modeling
+- Data Visualization
+- Interactive Dashboard Design
+
+---
+
+## 🛠️ Technologies Used
 
 - C Programming
 - Python
+- Power BI
+- DAX
+- Power Query
 - Git
 - GitHub
 
 ---
 
- 📚 Skills Gained
+## 📚 Skills Gained
 
+- Programming Fundamentals
 - Problem Solving
-- File Handling
 - Data Structures
+- File Handling
 - Functions & Modular Programming
-- Object-Oriented Thinking
 - Automation
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- DAX Measures
+- Power Query
+- Business Intelligence
 - Version Control with Git & GitHub
 
 ---
 
+## 👩‍💻 Author
 
- 👩‍💻 Author
 **Jyoti Verma**
 
 Thank you for visiting my repository! ⭐
