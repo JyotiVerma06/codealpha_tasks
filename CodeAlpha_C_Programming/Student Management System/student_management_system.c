@@ -12,21 +12,19 @@ struct Student
     char course[50];
 };
 
-/* ---------- Helper Functions ---------- */
 
-// Remove newline from fgets()
 void removeNewline(char *str)
 {
     str[strcspn(str, "\n")] = '\0';
 }
 
-// Clear input buffer
+
 void clearBuffer()
 {
     while (getchar() != '\n');
 }
 
-// Check if Student ID already exists
+
 int idExists(int id)
 {
     FILE *fp = fopen(FILE_NAME, "r");
@@ -53,7 +51,7 @@ int idExists(int id)
     return 0;
 }
 
-/* ---------- Add Student ---------- */
+
 
 void addStudent()
 {
@@ -138,7 +136,7 @@ void addStudent()
     printf("\nStudent added successfully!\n");
 }
 
-/* ---------- Display Students ---------- */
+
 
 void displayStudents()
 {
@@ -178,7 +176,6 @@ void displayStudents()
 
     fclose(fp);
 }
-/* ---------- Search Student ---------- */
 
 void searchStudent()
 {
@@ -222,7 +219,7 @@ void searchStudent()
 }
 
 
-/* ---------- Update Student ---------- */
+
 
 void updateStudent()
 {
@@ -313,7 +310,7 @@ void updateStudent()
 }
 
 
-/* ---------- Delete Student ---------- */
+
 
 void deleteStudent()
 {
@@ -384,7 +381,7 @@ void deleteStudent()
     else
         printf("\nStudent not found!\n");
 }
-/* ---------- Main Function ---------- */
+
 
 int main()
 {
